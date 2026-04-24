@@ -1,2 +1,7 @@
-# demo-odontologia-mc
-Demo web para ODONTOLOGIA MC — diseñada por eterlab.
+# ODONTOLOGIA MC
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
